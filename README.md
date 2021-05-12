@@ -1,2 +1,2 @@
 # VR Chickens
- A game for cardboard. Shoot by screaming
+ A game for cardboard. Auto movement. Shoot by screaming.
